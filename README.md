@@ -15,7 +15,7 @@ front-end application (when applicable)
 
 ## How to initialize/run your application (where applicable)
 # python madlin-cli.py
-[](./madlib-cli/madlib/madlib.py)
+[madlib](./madlib-cli/madlib/madlib.py)
 ## How to use your library (where applicable)
 # Tests
 # How do you run tests?
